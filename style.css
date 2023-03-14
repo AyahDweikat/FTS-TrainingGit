@@ -1,6 +1,6 @@
 body {
     background-color: rgb(101, 101, 146);
 }
-h {
+h, p {
     color:blueviolet;
 }
